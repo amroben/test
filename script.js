@@ -226,7 +226,7 @@ let intro = document.querySelector('.intro')
         })
       },2000);
       setTimeout(() => {
-        intro.style.left= '-200vh'
+        intro.style.top= '-100vh'
       },2900);
     })
   })
